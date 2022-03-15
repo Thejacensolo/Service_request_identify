@@ -11,3 +11,6 @@ the system works in 4 Steps:
 2) create a sorting mechanism using the above mentioned Filters
 3) enhance that scoring by running a pattern recognition via the trained model. Unsupervised machine learning suffices for our intent here
 4) Sort out request based on a combined scoring of Rule and Model filtering
+
+The detailed pipeline can be found here:
+https://raw.githubusercontent.com/Thejacensolo/Service_request_identify/f91bae8ce9860fc64a3663412010dc851605cd77/Piepline.svg
