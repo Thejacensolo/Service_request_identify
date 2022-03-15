@@ -14,3 +14,5 @@ the system works in 4 Steps:
 
 The detailed pipeline can be found here:
 https://raw.githubusercontent.com/Thejacensolo/Service_request_identify/f91bae8ce9860fc64a3663412010dc851605cd77/Piepline.svg
+
+https://github.com/Thejacensolo/Service_request_identify/blob/main/adaboost%20abfolge.png
